@@ -24,7 +24,7 @@ In the **BookRental.Api** project, create an API endpoint to rent a book for a u
 
 #### Technical requirements:
 - The "BookStore" class acts as a mock database. Use it to retrieve and store data.
-- On success, return updated book data.
+- On success, return the created rental record.
 - Handle possible failure cases and return an appropriate HTTP status code with a meaningful error message.
 
 ## 2. Implement an endpoint to return books
