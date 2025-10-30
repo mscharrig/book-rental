@@ -1,14 +1,14 @@
-# Setup
-- Either download the source code from this repository or check it out via GIT.
-- Open the code in your preferred IDE.
-- Launch the application and do a test request to the api via postman or any other tool of your choice.
-
 # Interview Guidelines
 - Ensure that you fully understand the given task or question.
 - Don't hesitate to ask questions if you encounter challenges or need additional information.
 - You are allowed to use online resources, including search engines like Google, during the interview.
     - If you do so, please share the research process with us.
 - And most importantly, be vocal about your thought process throughout the interview.
+
+# Setup
+- Either download the source code from this repository or check it out via GIT.
+- Open the code in your preferred IDE.
+- Launch the application and perform a test request to the API using Postman or another tool of your choice.
 
 # Tasks
 ## 1. Implement an endpoint to rent books 
