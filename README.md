@@ -12,7 +12,7 @@
 
 # Tasks
 ## 1. Implement an endpoint to rent books 
-Create an API endpoint to rent a book for a user, enforcing validation rules such as availability and updating both the book and rental records accordingly.
+In the **BookRental.Api** project, create an API endpoint to rent a book for a user, enforcing validation rules such as availability and updating both the book and rental records accordingly.
 
 #### Functional requirements:
 - The endpoint must allow a user to rent a specific book.
@@ -28,7 +28,7 @@ Create an API endpoint to rent a book for a user, enforcing validation rules suc
 - Handle possible failure cases and return an appropriate HTTP status code with a meaningful error message.
 
 ## 2. Implement an endpoint to return books
-Implement a return API endpoint that calculates dynamic late fees and condition-based penalties, updates the book’s availability, and returns a detailed fee summary.
+In the **BookRental.Api** project, implement a return API endpoint that calculates dynamic late fees and condition-based penalties, updates the book’s availability, and returns a detailed fee summary.
 
 #### Functional requirements:
 - When a user returns a book, the API must calculate rental duration and fees:
@@ -52,7 +52,7 @@ Implement a return API endpoint that calculates dynamic late fees and condition-
 - Handle possible failure cases and return an appropriate HTTP status code with a meaningful error message.
 
 ## 3. Refactor the Legacy Payment Processor
-Analyze and refactor a legacy C# codebase that tightly couples business logic with third-party dependencies.
+Analyze and refactor the **LegacyPaymentProcessing** project, which tightly couples business logic with third-party dependencies. Your goal is to make the codebase cleaner, testable, and extensible.
 
 ### Functional requirements:
 - The application should continue to support processing and refunding payments for:
