@@ -66,3 +66,4 @@ Analyze and refactor the **LegacyPaymentProcessing** project, which tightly coup
 - Avoid code duplication and excessive branching.
 - Introduce abstractions where appropriate.
 - Code should be easy to test and extend (e.g., add ApplePay later).
+- Keep in mind that you cannot change the code of the **PaymentApiClient**
