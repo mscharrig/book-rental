@@ -8,7 +8,7 @@
 # Setup
 - Either download the source code from this repository or check it out via GIT.
 - Open the code in your preferred IDE.
-- Launch the application and perform a test request to the API using Postman or another tool of your choice.
+- Launch the application and perform a test request to the API of the **BookRental.Api project** using Postman or another tool of your choice.
 
 # Tasks
 ## 1. Implement an endpoint to rent books 
